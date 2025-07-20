@@ -77,7 +77,7 @@ export default function GuruTributePage() {
       </div>
 
       <footer>
-        &copy; 2025 Designed by Riti Pandey | TYDS | Roll No. 18
+        &copy; 2025 Designed by Riti Pandey | TY Data Science
       </footer>
     </div>
   );
